@@ -1,2 +1,4 @@
 ﻿hello github
 now lets start
+git tracks changes
+git tracks what
